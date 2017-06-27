@@ -5,7 +5,7 @@ We developed three separate applications for Parking-Pal:
 
 ## 1. Parking Data collection (Python Web clawler) and API to retrive those data
 ### garagerecords.py
-Web clawler that collects live data about parking garage availability.
+Web clawler that collects live data for both public and private parking garages availability.
 Libraries Used:
   xml, urllib, mysql, threading
 <p align="center"><img width="90%" vspace="20" src="https://lh3.googleusercontent.com/qS1PEh2RCFLVRg1O4oO-slQNX0OilA4h7mz9-Ac86GKQ2SQGdy4R_ab8kBfAyrj8CNv1h5Vwa9m0Lodcl2VMTUF3XzcLMG9-C7z-fMZgUptKH_CV8hmpgCbKKbHY-b6wEeIeS1e1XEA7kP2NL7Fr4RnCNB0bAk6zyH_ta_IQvM-vHFMpuPfVcNXeGPHZengjhyF8VM_duNv6VdQ5R1it5f4MDjlYPID3vWQ5Ws8vb5pw1zC890-mQmpy-azMb-ov3Jorqd-c0Hy0ljhFBFsaYuPVqfxXj1W0uOAQBTBAsuBZoyfBvk6piL9zf1mMdaYXo-_m5SPjBLYsW7etKAPHrKBTuGA8fM8QsR_hwiZIHG0iDnSoUrYEHe6silY5jcz_JtnXGiO7PGEz7atk3btrmAkhWWRiUwz4pA2l0rLp3775AHKvuKZthXZpLk-maGuS8qJPpzchYa3SPVEQEQZLJw7SNbF_MTjPnd7n3TPaad3LOeACHw6yMS3OKpvIInWbRkKmqXErPeQ4SbFG565wU2i5acjnA5Z5Nv5yUreuh82x77A6mdpoRPgDB5FDk0bEh57471_8w3OaYY2zmkFxZuf6HCoCoWMTxQCoKuNjn8y8usyn=w2160-h1269-no"></p>
